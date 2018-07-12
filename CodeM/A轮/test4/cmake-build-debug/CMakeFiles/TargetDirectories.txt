@@ -1,0 +1,3 @@
+/home/geniusrabbit/Mcode/test4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/geniusrabbit/Mcode/test4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/geniusrabbit/Mcode/test4/cmake-build-debug/CMakeFiles/test4.dir
